@@ -30,6 +30,9 @@ run server first
 </h4>
 
 	./server_alice
+	
+in another terminal
+
 	./client_bob
 
 
